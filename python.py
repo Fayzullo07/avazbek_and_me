@@ -1,21 +1,82 @@
-print("hello world");
-
-
-
-
-
-
-
-
-
-
-sassjfafh9p
-
-
-
-
-
-bolla 
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
+print("Bevafo dunyo")
 
 
 
